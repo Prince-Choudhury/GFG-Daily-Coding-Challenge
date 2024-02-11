@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  This repository is dedicated to solving a daily Data Structures and Algorithms (DSA) problem on LeetCode. The goal is to improve problem-solving skills and build proficiency in algorithms.
+  This repository is dedicated to solving a daily Data Structures and Algorithms (DSA) problem on GFG. The goal is to improve problem-solving skills and build proficiency in algorithms.
 </p>
 
 ## Table of Contents
