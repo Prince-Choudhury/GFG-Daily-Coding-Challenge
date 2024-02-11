@@ -2,7 +2,7 @@
 
 <p align="center">
  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="Language">
-  <img src="https://img.shields.io/badge/LeetCode-Daily%20Challenge-orange" alt="LeetCode Challenge">
+  <img src="https://img.shields.io/badge/GFG-Daily%20Challenge-orange" alt="LeetCode Challenge">
 </p>
 
 <p align="center">
