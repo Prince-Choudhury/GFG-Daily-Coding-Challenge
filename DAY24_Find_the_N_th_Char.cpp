@@ -8,9 +8,6 @@ public:
 
             for (int i = 0; i < s.length(); i++) {
                 
-                if(temp.size() > n){
-                    break;
-                }
                 
                 if (s[i] == '1') {
                     temp += "10";
@@ -21,6 +18,11 @@ public:
                 else {
                     temp += s[i];
                 }
+
+                if(temp.size() > n){
+                    break;
+                }
+                
             }
 
             s = temp; // Update the original string with the new version
